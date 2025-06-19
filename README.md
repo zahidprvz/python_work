@@ -39,8 +39,8 @@ Here you'll find links to each day's learning summary.
 
 I'm embarking on this challenge to grow, and I'd love to connect with fellow learners and developers!
 
-* **LinkedIn:** [Your LinkedIn Profile Link] (e.g., `https://www.linkedin.com/in/zahidprvz/`)
-* **GitHub:** [Your GitHub Profile Link] (e.g., `https://github.com/zahidprvz`)
+* **LinkedIn:** [linkedin.com/in/zahidprvz](https://www.linkedin.com/in/zahidprvz/)
+* **GitHub:** [github.com/zahidprvz](https://github.com/zahidprvz)
 
 Feel free to watch this repository, leave comments on my LinkedIn posts, or share your own learning journeys!
 
