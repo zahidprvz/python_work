@@ -31,8 +31,8 @@ Each day of the challenge will have its own dedicated Markdown file (e.g., `Day_
 
 Here you'll find links to each day's learning summary.
 
-* **[Day 01: Chapters 1 & 2 - Setup, Variables, & Data Types](Day_01_Log.md)**
-* **[Day 02: Chapter 3 - Introducing Lists](Day_02_Log.md)**
+* **[Day 01: Chapters 1 & 2 - Setup, Variables, & Data Types](day_01_code/Day_01_Log.md)**
+* **[Day 02: Chapter 3 - Introducing Lists](day_02_code/Day_02_Log.md)**
 
 ---
 
