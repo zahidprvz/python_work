@@ -84,4 +84,3 @@ Today was all about Python's fundamental data structure: **lists**\! This chapte
 
 You can find the Python script files (`.py`) for the exercises and examples from Chapter 3 in the `day_02_code/` directory within this repository.
 
------
