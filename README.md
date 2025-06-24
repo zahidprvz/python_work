@@ -42,6 +42,7 @@ I'm embarking on this challenge to grow, and I'd love to connect with fellow lea
 
 * **LinkedIn:** [linkedin.com/in/zahidprvz](https://www.linkedin.com/in/zahidprvz/)
 * **GitHub:** [github.com/zahidprvz](https://github.com/zahidprvz)
+* **GitHub:** [pervaizzahid55@gmail.com](pervaizzahid55@gmail.com)
 
 Feel free to watch this repository, leave comments on my LinkedIn posts, or share your own learning journeys!
 
