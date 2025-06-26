@@ -47,4 +47,4 @@ I'm embarking on this challenge to grow, and I'd love to connect with fellow lea
 
 Feel free to watch this repository, leave comments on my LinkedIn posts, or share your own learning journeys!
 
-Happy coding! 🚀
+Happy coding!
