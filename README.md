@@ -1,4 +1,4 @@
-# 🐍 Python Crash Course: 21-Day Learning Log 🚀
+# 🐍 Python Crash Course: 21-Day Learning Log
 
 Welcome to my daily learning log for **Python Crash Course, 3rd Edition** by Eric Matthes!
 
