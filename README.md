@@ -34,6 +34,7 @@ Here you'll find links to each day's learning summary.
 * **[Day 01: Chapters 1 & 2 - Setup, Variables, & Data Types](day_01_code/Day_01_Log.md)**
 * **[Day 02: Chapter 3 - Introducing Lists](day_02_code/Day_02_Log.md)**
 * **[Day 03: Chapter 4 - Working with Lists](day_03_code/Day_03_Log.md)**
+* **[Day 04: Chapter 5 (Part 1) - If Statements & Conditional Tests](day_04_code/Day_04_Log.md)**
 
 ---
 
