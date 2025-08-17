@@ -18,7 +18,7 @@ fair = 0
 prompt = "You want a ticket?"
 prompt += "If yes write your age, if no write -1: " 
 
-while age != -1:
+while age != '-1':
     age = input(prompt)
 
     if int(age) <= 3 and int(age) > 0:
@@ -30,6 +30,5 @@ while age != -1:
     elif int(age) >= 12:
         fair = 15
         print(f"The ticket is {fair}$")
-    else:
-        fair = 0
-        print("Enter a valid age above 0")
+
+
