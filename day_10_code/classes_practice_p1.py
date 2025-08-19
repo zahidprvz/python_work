@@ -25,3 +25,53 @@ print("\n")
 
 my_restaurant.open_restaurant()
 my_restaurant.describe_restaurant()
+
+print("\n")
+
+
+# 9-2 Three Restaurants
+
+restaurant_1 = Restaurant("res1", "cuis1")
+restaurant_2 = Restaurant("res2", "cuis2")
+restaurant_3 = Restaurant("res3", "cuis3")
+
+restaurant_1.describe_restaurant()
+restaurant_2.describe_restaurant()
+restaurant_3.describe_restaurant()
+
+print("\n")
+
+# 9-3 Users
+
+class User:
+    def __init__(self, first_name, last_name, email, password):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.email = email
+        self.password = password
+
+    def describe_user(self):
+        print(f"Name is: {self.first_name + " " + self.last_name}")
+        print(f"Email is: {self.email}")
+        print(f"Password is: {self.password}")
+
+    def greet_user(self):
+        print(f"Hello, {self.first_name}, Your {self.email} is registered!")
+
+
+user_1 = User("zahid", "parviz", "pervaizzahid55@gmail.com", "abc123")
+user_2 = User("namal", "hussain", "inamlfatime@gmail.com", "abc123")
+user_3 = User("zulfiqar", "khan", "zulfi@gmail.com", "cba321")
+
+user_1.describe_user()
+user_1.greet_user()
+
+print("\n")
+
+user_2.describe_user()
+user_2.greet_user()
+
+print("\n")
+
+user_3.describe_user()
+user_3.greet_user()
