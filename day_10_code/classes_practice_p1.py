@@ -62,6 +62,7 @@ class User:
 user_1 = User("zahid", "parviz", "pervaizzahid55@gmail.com", "abc123")
 user_2 = User("namal", "hussain", "inamlfatime@gmail.com", "abc123")
 user_3 = User("zulfiqar", "khan", "zulfi@gmail.com", "cba321")
+user_4 = User("umair", "rajput", "umair@gmail.com", "zyr_abc")
 
 user_1.describe_user()
 user_1.greet_user()
@@ -75,3 +76,9 @@ print("\n")
 
 user_3.describe_user()
 user_3.greet_user()
+
+print("\n")
+
+
+user_4.describe_user()
+user_4.greet_user()
