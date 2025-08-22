@@ -52,5 +52,3 @@ def describe_cities(name, country="Pakistan"):
 describe_cities("Lahore")
 describe_cities("New York", "United States")
 describe_cities(name="Berlin", country="Germany")
-
-print("\n")
