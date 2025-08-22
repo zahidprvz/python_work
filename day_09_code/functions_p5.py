@@ -16,7 +16,6 @@ from printing_models import print_models as pm
 from printing_models import *
 
 
-
 # 8-17 Styling Functions
 
 short_messages = ['message_0', 'message_1', 'message_2', 'message_3']
