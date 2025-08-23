@@ -164,7 +164,3 @@ cities = {
 for city, info in cities.items():
     print(f"City: {city}\nInformation: {info}\n")
 
-
-
-# 6-12 Extensions
-
