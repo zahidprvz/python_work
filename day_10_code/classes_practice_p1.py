@@ -60,7 +60,7 @@ users = [
     User("zahid", "parviz", "pervaizzahid55@gmail.com", "abc123"),
     User("namal", "hussain", "inamlfatime@gmail.com", "abc123"),
     User("zulfiqar", "khan", "zulfi@gmail.com", "cba321"),
-    User("umair", "rajput", "umair@gmail.com", "zyr_abc"),
+    User("umair", "rajput", "umair@gmail.com", "zyr-abc"),
 ]
 
 for u in users:
