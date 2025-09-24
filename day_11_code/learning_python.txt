@@ -1,0 +1,4 @@
+In Python you can write clean code.
+In Python you can create variables and use them.
+In Python you can work with different type of data types.
+In Python you can create functions, classes and also do file handling.
